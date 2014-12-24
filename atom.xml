@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title>crow's resume</title>
+  <title>简历</title>
   <link href="wlwang41.github.io/my_resume/"/>
   <link type= "application/atom+xml" href="wlwang41.github.io/my_resume/atom.xml" rel="self"/>
   <updated>2014-07-20</updated>
